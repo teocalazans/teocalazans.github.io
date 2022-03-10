@@ -1,10 +1,10 @@
-h1 {
+.logo {
     font-family: "Press Start 2P", sans-serif;
     color: #62C370;
     text-shadow: 2px -2px 0 #000;
 }
 
-.Tituloprincipal {
+.title {
     font-family: "Press Start 2P", sans-serif;
     font-size: 40px;
     color:#62C370;
