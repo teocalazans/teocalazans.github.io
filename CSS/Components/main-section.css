@@ -1,18 +1,18 @@
-.tec-section {
+.main-section {
     background-color: #62C370;
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #525252;
 }
 
-.tec-section .main-title {
+.main-section .main-title {
     margin-bottom: 60px;
 }
 
-.card-section.-bgBlack {
+.main-section.-bgBlack {
     background-color: black;
 }
 
-.card-section.-bdFirst {
-    border-bottom: 10px solid #f25a70;
+.main-section.-bdFirst {
+    border-color: #f25a70;
 }
