@@ -8,3 +8,11 @@
 .tec-section .main-title {
     margin-bottom: 60px;
 }
+
+.card-section.-bgBlack {
+    background-color: black;
+}
+
+.card-section.-bdFirst {
+    border-bottom: #f25a70;
+}
