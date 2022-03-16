@@ -10,7 +10,7 @@
 
 .action::before {
     content: "";
-    background-color: #62C370;
+    background-color: #00a519;
     width: 10px;
     height: 10px;
     margin-right: 10px;
