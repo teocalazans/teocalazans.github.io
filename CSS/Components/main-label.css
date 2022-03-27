@@ -1,0 +1,12 @@
+form {
+    font-family: 'Fira Code', sans-serif;
+    background-color: #3a4042;
+
+}
+.main-label {
+    font-family: 'Fira Code', sans-serif;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 40px;
+}
