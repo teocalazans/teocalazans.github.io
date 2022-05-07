@@ -12,3 +12,8 @@
     margin-left: 20px;
     text-decoration: none;
 }
+
+#size {
+    height: 50px;
+    width: 50px;
+}

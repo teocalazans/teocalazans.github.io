@@ -1,8 +1,8 @@
 .main-section {
-    background-color: #62C370;
+    background-color: #FFA07A;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #f25a70;
+    border-bottom: 10px solid #01B2AC;
 }
 
 .main-section .main-title {
@@ -14,11 +14,11 @@
 }
 
 .main-section.-bdFirst {
-    border-color: #f25a70;
+    border-color: #9B004a;
 }
 
 .main-section.-bgSecond {
-    background-color: #62C370;
+    background-color: #01B2AC;
 }
 
 .main-section.-bdBlack {
