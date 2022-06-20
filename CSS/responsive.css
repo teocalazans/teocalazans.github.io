@@ -1,0 +1,49 @@
+@media (max-width: 630px) {
+    .certification-square .certification {
+        width: 100%;
+        height: 100%;
+    }
+
+    .body, section {
+        width: 100vw;
+    }
+
+    #button-downcv {
+        display: none;
+    }
+
+    .main-banner .wrapper {
+        width: 50%;
+       padding-left: 10px;
+       font-size: 10px;
+       padding-bottom: 0;
+       padding-top: 10px;
+    }
+
+.main-banner .main-box {
+    margin-bottom: 20px;
+}
+
+    .main-box {
+        height: 100px;
+        padding: 10px ;
+    }
+
+    .main-box .main-title {
+        margin-bottom: 15px;
+    }
+
+    .main-title, .main-subtitle {
+        font-size: 18px;
+    }
+
+    .main-banner {
+        height: auto;
+    }
+
+    .button-nav {
+        padding: 12px 11px;
+        margin-bottom: 5px;
+    }
+    
+}
