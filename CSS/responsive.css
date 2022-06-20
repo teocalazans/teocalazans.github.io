@@ -46,7 +46,7 @@
         margin-bottom: 5px;
     }
 
-    .title-skill, .title-project, .title-about {
+    .title-skill, .title-project, .title-about, .title-contact {
        font-size: 30px;
     }
 
@@ -73,4 +73,11 @@
         padding-left: 30px;
         padding-right: 30px;
     }
+
+    .main-form {
+        padding: 50px 25px;
+    }
+
+    
+
 }
