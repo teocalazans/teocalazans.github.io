@@ -45,5 +45,19 @@
         padding: 12px 11px;
         margin-bottom: 5px;
     }
+
+    .title-skill, .title-project {
+       font-size: 30px;
+    }
+
+    .wrapper-skill .skill-tec {
+        width: 90%;
+        margin-right: 0;
+        margin-left: 20px;
+    }
+
+    .wrapper-skill .progress-bar {
+        width: 200px;
+    }
     
 }
