@@ -78,6 +78,8 @@
         padding: 50px 25px;
     }
 
-    
+    .main-footer .actions {
+            margin: 0;
+    }
 
 }
