@@ -46,7 +46,7 @@
         margin-bottom: 5px;
     }
 
-    .title-skill, .title-project {
+    .title-skill, .title-project, .title-about {
        font-size: 30px;
     }
 
@@ -67,5 +67,10 @@
 
     .wrapper-card a {
         margin-bottom: 25px;
+    }
+
+    .main-description {
+        padding-left: 30px;
+        padding-right: 30px;
     }
 }
